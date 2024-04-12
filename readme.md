@@ -24,4 +24,4 @@ The following topics are included in this repository:
 * Unsupervised Learning
 -----PENDING---- 
 
-Each topic has an aptly-named subdirectory containing the corresponding Python Jupyter Notebook with the code developed and a README.md file with the description of the algorith, its theoretical foundation, applications, and any other relevant information. 
+Each topic has an aptly-named subdirectory containing the corresponding Python Jupyter Notebook with the code developed and a README.md file with the description of the algorithm, its theoretical foundation, applications, and any other relevant information. 
