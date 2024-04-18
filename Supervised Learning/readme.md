@@ -9,12 +9,12 @@ For example a supervised algorithm could help us sort out vehicles into categori
 image source: autodeal.com.ph
 
 There are two types of supervised learning algorithms: 
-    - Classification: 
-        - Used to separate and label the data into predefined classes or groups. 
-        - examples: Image recognition (animals, tree types, bread sorts, etc), handwriting character recognition, facial recognition, etc. 
-    - Regression: 
-        - Used to assign a real value to the data. 
-        - examples: weight, house price prediction, etc.
+     Markup : * Classification: 
+        * Used to separate and label the data into predefined classes or groups. 
+        * examples: Image recognition (animals, tree types, bread sorts, etc), handwriting character recognition, facial recognition, etc. 
+    * Regression: 
+        * Used to assign a real value to the data. 
+        * examples: weight, house price prediction, etc.
 
 In this Section we explore the following Supervised Learning Algorithms: 
 - [The Perceptron](./The-Perceptron)
