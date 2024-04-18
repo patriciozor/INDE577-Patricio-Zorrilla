@@ -5,13 +5,13 @@ As it name well describes, in supervised learning the algorithm learns with the 
 For example a supervised algorithm could help us sort out vehicles into categories sedan, hatchback, station wagon, minivan, truck, etc. 
 
 ![Hatchback vs Station Wagon](hatchback-vs-station-wagons-roofline-and-bumpers-60b735f182609.jpg)
+
 image source: autodeal.com.ph
 
 There are two types of supervised learning algorithms: 
     * Classification: 
         * Used to separate and label the data into predefined classes or groups. 
         * examples: Image recognition (animals, tree types, bread sorts, etc), handwriting character recognition, facial recognition, etc. 
-    
     * Regression: 
         * Used to assign a real value to the data. 
         * examples: weight, house price prediction, etc.
