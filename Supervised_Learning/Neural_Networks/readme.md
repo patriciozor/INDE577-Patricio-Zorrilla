@@ -10,7 +10,7 @@ In the workbook, we explore various aspects of neural network implementation in 
 ## Dataset
 The dataset consists of images categorized under two classes: Homer and Bart Simpson, participating in various activities. Each image is labeled based on the character it features, with filenames like homerX.bmp or bartX.bmp where X is the file number.
 
-The dataset used in this project is designed for educational purposes and can be accessed directly in the notebook, stored locally in the folder homer_bart.
+The dataset used in this project is designed for educational purposes and can be accessed directly in the notebook, stored locally in the folder homer_bart. The dataset was obtained from https://www.kaggle.com/datasets/ravinash218/homerbart1/data
 
 ### Repository Structure
 This subrepository includes:
