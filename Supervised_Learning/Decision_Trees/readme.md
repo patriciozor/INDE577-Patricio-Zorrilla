@@ -1,6 +1,8 @@
 # Decision Trees for Predicting Employee Attrition
 
-![Decision Tree Model](Decision_Tree_Model.png)
+![Decision Tree Model](Decision_Trees.png)
+
+Source: https://devopedia.org/decision-trees-for-machine-learning
 
 This project employs the Decision Tree algorithm to predict employee attrition based on an HR analytics dataset. The process of constructing the Decision Tree, including the handling and interpretation of the data, is detailed in the [jupyter notebook](Decision_Trees_HR_Attrition.ipynb) inside this subrepository.
 
