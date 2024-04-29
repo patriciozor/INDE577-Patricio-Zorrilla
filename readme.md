@@ -4,6 +4,8 @@
 
 This repository is authored by Patricio Zorrilla Amaya, a Mexican graduate student of the Master of Industrial Engineering program at Rice University. 
 
+Contact: patricio@rice.edu
+
 ## WHAT IS THIS REPOSITORY?: AN INTRODUCTION
 
 This folder contains all the coding projects for the course INDE 577 Data Science and Machine Learning instructed by Dr. Randy Davila during the Spring 2024 Semester. The main topics of the course are supervised learning and unsupervised learning. The code found in this repository is based off of classroom examples. 
