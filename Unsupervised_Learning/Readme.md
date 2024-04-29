@@ -1,8 +1,9 @@
-# Unsupervised Learning with K-Means and DBSCAN
+# Unsupervised Learning: K-Means, DBSCAN and PCA
+
 
 ![Unsupervised Learning](Unsupervised_Learning.png)
 
-This project demonstrates unsupervised learning using the K-Means and DBSCAN algorithms, with a focus on clustering data points into meaningful segments. The mathematical descriptions and implementation details are provided in the [Jupyter notebook](Unsupervised_Clustering.ipynb) inside this repository.
+This project demonstrates unsupervised learning using the K-Means, DBSCAN and PCA algorithms, with a focus on clustering data points into meaningful segments. The mathematical descriptions and implementation details are provided in the [Jupyter notebook](Unsupervised_Clustering.ipynb) inside this repository.
 
 In this workbook, we address the nuances of implementing these algorithms, including challenges and parameter selection. 
 
