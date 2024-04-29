@@ -1,6 +1,6 @@
 # Supervised Learning
 
-As it name well describes, in supervised learning the algorithm learns with the presence of a supervisor. We feed correctly labeled data to the algorithm and it learns to associate the labels according to the examples provided, so that when unlabeled data is given to the algorithm it helps the user to predict the correct label. 
+As it name well describes, in supervised learning the algorithm learns with the presence of a supervisor, in this case labeled data. We feed correctly labeled data to the algorithm and it learns to associate the labels according to the examples provided, so that when unlabeled data is given to the algorithm it helps the user to predict the correct label. 
 
 For example a supervised algorithm could help us sort out vehicles into categories sedan, hatchback, station wagon, minivan, truck, etc. 
 
