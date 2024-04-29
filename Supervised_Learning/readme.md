@@ -9,21 +9,21 @@ For example a supervised algorithm could help us sort out vehicles into categori
 image source: autodeal.com.ph
 
 There are two types of supervised learning algorithms: 
-    Markup : * Classification: 
-        * Used to separate and label the data into predefined classes or groups. 
-        * examples: Image recognition (animals, tree types, bread sorts, etc), handwriting character recognition, facial recognition, etc. 
-    * Regression: 
-        * Used to assign a real value to the data. 
-        * examples: weight, house price prediction, etc.
+* Classification: 
+    * Used to separate and label the data into predefined classes or groups. 
+    * examples: Image recognition (animals, tree types, bread sorts, etc), handwriting character recognition, facial recognition, etc. 
+* Regression: 
+    * Used to assign a real value to the data. 
+    * examples: weight, house price prediction, etc.
 
 In this Section we explore the following Supervised Learning Algorithms: 
-- [The Perceptron](./The-Perceptron)
-- [Gradient Descent](./Gradient-Descent)
-- [Linear Regression](./Linear-Regression)
-- [Logistic Regression](./Logistic-Regression)
-- [Neural Networks](./Neural-Networks)
-- [K-Nearest Neighbors (KNN)](./K-Nearest-Neighbors)
-- [Decision Trees](./Decision-Trees)
-- [Ensemble Methods](./Ensemble-Methods)
+- [The Perceptron](./The_Perceptron)
+- [Gradient Descent](./Gradient_Descent)
+- [Linear Regression](./Linear_Regression)
+- [Logistic Regression](./Logistic_Regression)
+- [Neural Networks](./Neural_Networks)
+- [K-Nearest Neighbors (KNN)](./K-Nearest_Neighbors)
+- [Decision Trees](./Decision_Trees)
+- [Ensemble Methods](./Ensemble_Methods)
 
 
