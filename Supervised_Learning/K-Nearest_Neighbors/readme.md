@@ -11,6 +11,8 @@ The dataset comprises 36285 instances, each with features derived from booking i
 
 The dataset used in this project has been adapted for educational purposes and is contained within the notebook workspace, with the filename `booking.csv`.
 
+The dataset was obtained from [Kaggle.com](https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancellation-prediction/data)
+
 ## Repository Structure
 This subrepository contains:
 * A ![jupyter notebook](KNN_Hotel_Cancellations.ipynb) that details the implementation of the KNN algorithm.

@@ -11,12 +11,13 @@ In this workbook, we examine various aspects of Decision Tree implementation. As
 ## Dataset
 The dataset includes records for several hundred employees, with features such as age, monthly income, job role, marital status, and others. The target variable is employee attrition, indicating whether an employee has left the company.
 
-The dataset used in this project is specifically tailored for educational purposes and can be found within the notebook workspace, under the filename `HR_analytics.csv`.
+The dataset was obtained from [Kaggle.com](https://www.kaggle.com/code/senbagaraman/hr-analysis-imbalanced-dataset)
 
 ## Repository Structure
 This subrepository contains:
 * A [jupyter notebook](Decision_Trees_HR_Attrition.ipynb) that outlines the construction and application of the Decision Tree model.
 * A PNG image that visualizes the Decision Tree model.
 * This README file.
+* The dataset file named HR_Analytics.csv
 
 ---
