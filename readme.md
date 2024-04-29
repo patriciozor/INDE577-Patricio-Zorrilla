@@ -1,3 +1,5 @@
+![Data Science and Machine Learning](Banner.png)
+
 # DATA SCIENCE AND MACHINE LEARNING INDE 577
 
 This repository is authored by Patricio Zorrilla Amaya, a Mexican graduate student of the Master of Industrial Engineering program at Rice University. 
@@ -22,7 +24,7 @@ The topics covered in this repository are:
     * [Ensemble Methods](./Supervised_Learning/Ensemble_Methods/)
 
 * [Unsupervised Learning](./Unsupervised_Learning/)
-    *[K-Means, DBSCAN and PCA](./Unsupervised_Learning/Unsupervised_Learning.ipynb)
+    * [K-Means, DBSCAN and PCA](./Unsupervised_Learning/Unsupervised_Learning.ipynb)
 
 Each topic has an aptly-named subdirectory containing the corresponding Python Jupyter Notebook with the code developed and a README.md file with the description of the algorithm, its theoretical foundation, applications, and any other relevant information. 
 
